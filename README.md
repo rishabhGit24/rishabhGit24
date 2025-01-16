@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mern stack, Generative AI, Deep-Learning<br>Full-Stack development with Kubernetes and DevOps<br>I'm well-versed In Full stack development and have Working knowledge on Tackling real-world problems using DEep-learning and Gen-AI techniques<br>I was a EEE engineer who shifted to ISE Domain to follow my passion for coding 
+Mern stack, Generative AI, Deep-Learning<br>Full-Stack development with DevOps<br>I'm well-versed In Full stack development and have Working knowledge on Tackling real-world problems using Deep-learning and Gen-AI techniques<br>I was a EEE engineer who shifted to ISE Domain to follow my passion for coding 
 
 
 ## 🌐 Socials:
